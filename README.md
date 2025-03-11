@@ -1,3 +1,5 @@
+[![Auto-merge](https://github.com/tyler36/dependabot-gha/actions/workflows/dependabot-auto-pr.yml/badge.svg)](https://github.com/tyler36/dependabot-gha/actions/workflows/dependabot-auto-pr.yml)
+
 # Dependable-gha
 
 ## Overview
