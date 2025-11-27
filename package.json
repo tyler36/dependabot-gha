@@ -7,7 +7,7 @@
     },
     "devDependencies": {
         "@vitest/coverage-v8": "^4.0.13",
-        "autoprefixer": "^10.4.20",
+        "autoprefixer": "^10.4.22",
         "axios": "^1.13.2",
         "concurrently": "^9.2.1",
         "laravel-vite-plugin": "^2.0.1",
